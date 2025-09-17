@@ -12,3 +12,18 @@ Proyecto educativo estático sobre tipos de almacenamiento de datos (HDD, SSD, N
 6. Haz clic en **Deploy**.
 7. Al terminar, tendrás una URL pública del estilo:
 
+
+8. Cada vez que subas cambios a GitHub, Vercel actualizará la web automáticamente.
+
+---
+
+## 📂 Estructura básica
+
+- `index.html` → Página principal con secciones: filtro, tarjetas, tabla comparativa, glosario y quiz.
+- `README.md` → Instrucciones de despliegue (este archivo).
+
+---
+
+## ✨ Requisitos previos
+
+Ninguno. Todo se hace desde el navegador usando GitHub y Vercel.
